@@ -8,4 +8,5 @@ TikTok Auto Rep0rt Unlimited Nonstop 😌💣🐸
     pkg install python
     pip inatall rich
     git clone https://github.com/CyberRowX/TikTok
+    cd TikTok
     python fuck
