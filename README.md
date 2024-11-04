@@ -7,5 +7,5 @@ TikTok Auto Rep0rt Unlimited Nonstop 😌💣🐸
     pkg install git
     pkg install python
     pip inatall rich
-    git clone https://github.com/row-x/TikTok-Auto-Report
+    git clone https://github.com/CyberRowX/TikTok
     python fuck
